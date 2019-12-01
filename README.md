@@ -1,6 +1,6 @@
 # Youtube Music Playlist
 Creates a playlist from your liked music videos.
-
+___
 ### How to use
 
 1. Install required packages.
